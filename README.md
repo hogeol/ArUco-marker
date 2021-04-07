@@ -1,7 +1,7 @@
 # ArUco-marker
 Make a cube on ArUco marker
 Need file
-openCV 4.4.0
+openCV 4.4.0 with ArUco library
 openGL
 
 
